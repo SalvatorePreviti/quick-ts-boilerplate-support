@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "allowUnreachableCode": false,
+      "allowUnusedLabels": false,
+      "alwaysStrict": true,
+      "charset": "utf8",
+      "checkJs": false,
+      "downlevelIteration": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "forceConsistentCasingInFileNames": true,
+      "importHelpers": true,
+      "inlineSourceMap": false,
+      "inlineSources": false,
+      "lib": [
+        "es2018"
+      ],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "newLine": "LF",
+      "noEmit": false,
+      "noEmitHelpers": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitUseStrict": false,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "preserveConstEnums": true,
+      "pretty": true,
+      "removeComments": false,
+      "skipDefaultLibCheck": true,
+      "skipLibCheck": false,
+      "sourceMap": true,
+      "suppressExcessPropertyErrors": false,
+      "suppressImplicitAnyIndexErrors": true,
+      "target": "es2018"
+    }
+  }

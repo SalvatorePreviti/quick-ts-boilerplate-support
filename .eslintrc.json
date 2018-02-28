@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "eslint-config-quick"
+  ],
+  "rules": {
+    "node/no-unsupported-features": [
+      "error",
+      {
+        "version": 9,
+        "ignores": [
+          "modules"
+        ]
+      }
+    ]
+  }
+}
